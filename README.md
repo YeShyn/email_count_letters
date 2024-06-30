@@ -1,4 +1,4 @@
-# email_count_letters
+# Email count letters in gmail
  counts the number of emails received from each sender.
 
 ### Description
